@@ -1,0 +1,343 @@
+Mommy has a dog
+I want juice
+Cat drinks milk
+Pick up the ball
+Apple is yummy
+I see a chair
+We love banana
+Dog wags tail
+Cat sleeps quietly
+Bird sings loudly
+The sun is hot
+Rain falls gently
+I see the moon
+The car is fast
+We eat cookies
+Daddy drives a car
+Fish swim in water
+Kids play outside
+The ball is round
+Rabbit hops fast
+Duck swims in the pond
+Bear eats honey
+Monkey climbs a tree
+Plane flies high
+The book is open
+I write with a pen
+We share a cookie
+Kite flies in the sky
+Dog barks at the cat
+The house is big
+I hold a cup
+Ice cream is cold
+Sand is on the beach
+Baby laughs loudly
+Grandpa walks slowly
+Horse runs in the field
+Cow gives milk
+Frog jumps in water
+The lamp is bright
+Bird builds a nest
+Mouse runs fast
+Tiger is very strong
+Elephant has big ears
+The bag is heavy
+I read a new book
+The window is open
+Door is closed
+We make a cake
+Juice is in the glass
+Socks are on my feet
+The hat is on the bed
+The sky is blue
+Butterfly sits on a flower
+Bee buzzes around
+The baby is sleeping
+Boat floats on the water
+Car honks loudly
+The road is long
+I hear music
+The clock ticks
+We jump on the bed
+The pencil is sharp
+The toy is broken
+I like chocolate
+The dog is barking
+The fish swims fast
+The apple is red
+I eat my lunch
+Mommy wears a coat
+Dad likes coffee
+The train is arriving
+The ball rolls away
+Clouds are in the sky
+Rain makes puddles
+The cake tastes sweet
+The bike is new
+I wash my hands
+The shoes are dirty
+Cat drinks water
+Milk is in the bottle
+Banana is yellow
+Grandma knits socks
+Uncle brings gifts
+I see a rainbow
+Grass grows tall
+The house has a roof
+I sleep in my bed
+The tree is big
+The squirrel climbs up
+The sun is rising
+We go to the park
+The doorbell rings
+The cup is empty
+The table is clean
+I eat a sandwich
+Grandpa drinks tea
+The road is quiet
+The river flows fast
+The teddy bear is soft
+The kitten purrs softly
+The giraffe has a long neck
+The fox runs quickly
+The wolf howls loudly
+The bear sleeps in the cave
+The lion roars in the jungle
+The camel drinks water
+The elephant sprays water
+The monkey eats a banana
+The deer runs through the forest
+The shark swims in the sea
+The whale jumps out of the water
+The dolphin plays in the ocean
+Mommy holds my hand
+Daddy fixes the car
+The dog chases the ball
+The cat sits on the mat
+I drink cold water
+The bird flies high
+The sun shines brightly
+Rain makes the grass grow
+The baby claps hands
+Grandpa tells a joke
+The penguin slides on ice
+Grandma bakes cookies
+The train whistles loudly
+The moon is in the sky
+The stars twinkle at night
+The cow eats grass
+The duck quacks in the pond
+I write a letter
+The clock shows the time
+I draw with crayons
+The chair is in the room
+Flowers burst into bloom 
+Trees spread many branches 
+Squirrels munch on nuts 
+Rabbits hide in bushes 
+Sheep bleat loudly 
+Goats scale rocks 
+Elephants drink water 
+Lions reign as kings 
+Tigers growl in jungles 
+Zebras sprint across fields 
+Penguins waddle on ice 
+Bears climb trees 
+A fox hides in forests 
+Dogs wag tails 
+Cats stretch in sunlight 
+Puppies play with balls 
+Kittens hide under beds 
+Planes soar high in skies 
+Boats sail along rivers 
+Rockets blast into space 
+Bicycles rest in garages 
+Scooters roll along roads 
+Trucks haul heavy boxes 
+Vans park outside 
+Balloons float through air 
+Airplanes land on runways 
+I pack my school bag 
+Pencils write smoothly 
+Books brim with stories 
+Paper lies on desks 
+An eraser is small and pink 
+Shoes are tied neatly 
+Socks feel warm and fuzzy 
+Hats keep heads warm 
+Scarves wrap around necks 
+Belts keep pants up 
+A button is missing 
+Keys open doors 
+Phones ring loudly 
+Watches tick softly 
+Glasses aid vision 
+Notebooks hold blank pages 
+Balls bounce off walls 
+Cars race by 
+Bikes sport shiny wheels 
+Kites show red and yellow hues 
+Mommy makes breakfast
+Daddy reads the newspaper
+I run to the park
+The dog sleeps on the rug
+The cat plays with yarn
+I drink warm milk
+The bird chirps in the morning
+The sun rises early
+Rain drops on the window
+The baby crawls on the floor
+The fish jumps out of the water
+Grandpa feeds the birds
+Grandma plants flowers
+The car drives on the road
+The train crosses the bridge
+The moon looks round tonight
+The stars light up the sky
+The cow rests in the barn
+The duck waddles to the pond
+I paint with bright colors
+The clock ticks all day
+I color in my book
+Table made of wood 
+Door creaks open 
+Window reveals a rainbow 
+Flowers glow in red and yellow 
+A tree sways in wind 
+A squirrel hides its food 
+Rabbit dashes into its hole 
+Horse gallops across a field 
+Sheep gather near a fence 
+Goat chews on leaves 
+Elephant splashes in water 
+Lion sleeps under a tree 
+Tiger stalks its prey 
+Giraffe overlooks trees 
+Zebra drinks from a stream 
+Penguins stand in a group 
+Monkey leaps onto a branch 
+Bear searches for food 
+Fox sneaks through grass 
+Owl watches at night 
+Dog barks at mailman 
+Cat lies on windowsill 
+Puppy chases a butterfly 
+Kitten pounces on a toy 
+Plane lands on runway 
+Boat docks at harbor 
+Rocket reaches for stars 
+Bus picks up children 
+Bicycle leans against a fence 
+Scooter parked by a tree 
+Truck delivers packages 
+Van drives through neighborhood 
+Balloon bursts in air 
+Kite dances in breeze 
+Airplane flies over mountains 
+I zip my school bag 
+Pencil draws straight lines 
+Book tells animal stories 
+Paper shows colorful drawings 
+Eraser fixes my mistake 
+Shoes are polished and clean 
+Socks feature colorful stripes 
+Hat shields from sun 
+Coat is heavy and warm 
+Scarf matches my gloves 
+Belt made of leather 
+A loose button 
+Key fits in lock 
+Phone buzzes on table 
+Watch shows right time 
+Glasses rest on a shelf 
+Notebook contains drawings 
+Toy makes a funny sound 
+Ball rolls under a chair 
+Car drives through tunnel 
+Bike needs air in tires 
+Kite has a long string 
+Plane leaves a white trail 
+Ship sails to an island 
+Train speeds through station 
+Clock rings in morning 
+Doorbell chimes when pressed 
+Wind moves branches 
+Cloud resembles a bear 
+Rainbow shines after rain 
+Grass feels soft underfoot 
+Flowers bloom in spring 
+Tree covered in snow 
+Mountain touches clouds 
+River flows through valley 
+Beach shows many footprints 
+Shell is smooth and shiny 
+Ice cream drips on my hand 
+Cake smells delicious 
+Bread is sliced thinly 
+Butter melts on toast 
+Juice spills on table 
+Milk sits in fridge 
+Chocolate melts in my mouth 
+Fruit is ripe and ready 
+Apple tastes sweet and crisp 
+Orange is peeled carefully 
+Banana is cut into pieces 
+Grape rolls off plate 
+Watermelon shared by everyone 
+Strawberry dipped in sugar 
+Blueberry baked in a pie 
+Pineapple sliced into rings 
+Lemon adds flavor to tea 
+Peach is soft and juicy 
+Mommy reads a story
+Daddy waters the plants
+I jump over a puddle
+The dog digs in the garden
+The cat hides under the couch
+I sip my orange juice
+The bird builds a nest
+The sun sets behind the hill
+Rain wets my umbrella
+The baby holds a rattle
+The fish swims in circles
+Grandpa fixes the chair
+The car beeps at the corner
+The duck flaps its wings
+I glue pieces of paper
+The clock hangs on the wall
+I sketch a flower
+The chair wobbles on the floor
+The doorbell rings loudly
+The window is covered in frost
+The elephant lifts its trunk
+The lion roars at the zoo
+Grandma knits a sweater
+The tiger stretches in the grass
+The giraffe bends to drink water
+The zebra runs past the herd
+The penguin slides into the water
+The monkey grabs a banana
+The bear scratches its back
+The fox jumps over a log
+The van carries many boxes
+The balloon pops with a bang
+The kite sways in the wind
+The airplane circles above
+I put on my raincoat
+The pencil is yellow and sharp
+The notebook is filled with notes
+The toy spins and makes noise
+The ball bounces high
+The beach has many seashells
+The shell breaks underfoot
+The ice cream cone drips quickly
+The cake is decorated with candles
+The blueberry muffin is delicious
+The pineapple is juicy
+The lemon juice is sour
+The peach pit is hard
+I have my hair cut every month 
+I prefer ice cream over cake 
+That's one of my biggest problems 
+The gorilla beat his chest
+Jessica wants a new book 
